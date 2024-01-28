@@ -1,7 +1,7 @@
 # Network-Monitoring-App
 
 Joshua Kim 
-OSU ~ CS340 
+OSU ~ CS 372
 
 The Network Monitoring App is a application for users to check the status of servers of various protocols and services including HTTP, HTTPS, ICMP, DNS, NTP, TCP, and UDP. The application allows users to configure frequency of status updates of the specified protocol/service. 
 
