@@ -454,7 +454,7 @@ def main():
     print("Ping Example:")
     ping_addr, ping_time = ping("8.8.8.8")
     print(f"Google DNS (ping): {ping_addr[0]} - {ping_time:.2f} ms" if (ping_addr and ping_time is not None) else "Google DNS (ping): Request timed out or no reply received")
-
+ 
     # Traceroute Usage Example
     # Note: This function is included as an extra to round out the ICMP examples.
     print("\nTraceroute Example:")
@@ -509,3 +509,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
